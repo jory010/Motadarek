@@ -73,6 +73,27 @@ The system integrates multiple machine learning models into one inference pipeli
 
 ---
 
+## Project Structure
+
+```text
+.
+├── static/
+│   └── frontend files
+├── notebooks/
+│   └── model training notebooks
+├── model/
+│   ├── fall_detector/
+│   ├── position/
+│   ├── surface/
+│   ├── scream/
+│   └── radar/
+├── main.py
+├── requirements.txt
+
+├── Dockerfile
+└── README.md
+---
+```
 ## Project Team
 
 MOTADAREK is a collaborative graduation project developed by a team of five Artificial Intelligence students at the University of Jeddah, Saudi Arabia.
@@ -93,24 +114,3 @@ MOTADAREK is a collaborative graduation project developed by a team of five Arti
 **Department:** Artificial Intelligence  
 **Project Type:** Graduation Project
 
----
-
-## Project Structure
-
-```text
-.
-├── static/
-│   └── frontend files
-├── notebooks/
-│   └── model training notebooks
-├── model/
-│   ├── fall_detector/
-│   ├── position/
-│   ├── surface/
-│   ├── scream/
-│   └── radar/
-├── main.py
-├── requirements.txt
-
-├── Dockerfile
-└── README.md
