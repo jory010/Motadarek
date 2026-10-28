@@ -73,6 +73,28 @@ The system integrates multiple machine learning models into one inference pipeli
 
 ---
 
+## Project Team
+
+MOTADAREK is a collaborative graduation project developed by a team of five Artificial Intelligence students at the University of Jeddah, Saudi Arabia.
+
+
+### Team Members
+
+| Name |
+|------|
+| Joori Shareef |
+| Sarah Aldarwish |
+| Jood Alharbi |
+| Jana Alzobidi |
+| Rahaf Alhodali |
+
+
+**Institution:** University of Jeddah  
+**Department:** Artificial Intelligence  
+**Project Type:** Graduation Project
+
+---
+
 ## Project Structure
 
 ```text
@@ -89,5 +111,6 @@ The system integrates multiple machine learning models into one inference pipeli
 │   └── radar/
 ├── main.py
 ├── requirements.txt
+
 ├── Dockerfile
 └── README.md
